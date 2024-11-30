@@ -7,7 +7,7 @@ This project is a simple and visually appealing **Weather App** that allows user
 - **Location Search**: Users can enter a location to fetch weather data.
 - **Dynamic Weather Display**: 
   - Displays the temperature with an accompanying weather icon.
-  - Shows weather conditions (e.g., "Broken Clouds").
+  - Shows weather conditions ("Rain, sunny and ohters").
 - **Additional Weather Details**:
   - **Humidity**: Displays the current humidity level in percentage.
   - **Wind Speed**: Displays the current wind speed in kilometers per hour.
